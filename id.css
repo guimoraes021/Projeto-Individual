@@ -1,0 +1,19 @@
+body {
+background-color: lightslategrey;
+} 
+h1 {
+    text-align: center;
+
+}
+.imagem {
+    height: 220px;
+    width: 190px;
+    margin: -5px;
+
+}
+
+.campo{
+    width: 100px;
+    height: 70px;
+    margin-bottom: -60px;
+}
